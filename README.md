@@ -1,8 +1,2 @@
 # MGuvenc.github.io
-# MGuvenc.github.io
-# MGuvenc.github.io
-# MGuvenc.github.io
-# MGuvenc.github.io
-# MGuvenc.github.io
-# MGuvenc.github.io
-# MGuvenc.github.io
+Django v1
